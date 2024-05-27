@@ -1,6 +1,6 @@
 - 👋 Olá, sou Adriano Olegário (AdrianoOds)
-- 👀 Estou interessado em ingreçar no mundo da programação
-- 🌱 Atualmente estou aprendendo JavaScript
+- 👀 Estou interessado em ingreçar no mundo da programação.
+- 🌱 Atualmente estou aprendendo JavaScript.
 - 💞️ Procuro aprender, para tambem poder colaborar...
 - 📫 adrianoods@gmail.com
 
